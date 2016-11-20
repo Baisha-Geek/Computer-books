@@ -17,6 +17,7 @@
 	* [RaspberryPi](#raspberrypi )
 	* [LeMaker](#lemaker)
 	* [STM32](#stm32)
+	* [姿态融合算法](#姿态融合算法)
 
 - **[语言无关类](#语言无关类)**
 
@@ -102,6 +103,11 @@
 ### STM32
 
 ------------------------------------------------
+
+###姿态融合算法
+* [Crazepony开源四轴飞行器](http://www.crazepony.com/book/index.html)
+* [Pixhawk之姿态控制-blog](http://blog.csdn.net/qq_21842557/article/details/51439171)
+* [各种文章](http://pt.findeen.com/%E5%A7%BF%E6%80%81%E8%9E%8D%E5%90%88%E7%AE%97%E6%B3%95.html)
 
 
 ## 语言无关类
