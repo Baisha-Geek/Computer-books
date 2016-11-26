@@ -75,6 +75,7 @@
 - **[其他](#其他)**
 
 - **[在线教育](#在线教育)**
+- **[信息安全](#信息安全)**
 
 
 
@@ -794,11 +795,69 @@
 * [TeamTreeHouse](https://teamtreehouse.com/)
 * [Udacity](https://cn.udacity.com/)
 
+-------------------------
+## 信息安全
+* [CTF领域指南](https://trailofbits.github.io/ctf/)
+* [CTF比赛问题的集锦](http://captf.com/)
+* [Practice CTF List / Permanant CTF List](http://captf.com/practice-ctf/)
 
+### ctf逆向:
+* [Reversing.Kr](http://reversing.kr/)
+* [pwnable.kr](http://pwnable.kr/)
+* [Exploit Exercises](https://exploit-exercises.com/)
+* [overthewire.org](http://overthewire.org/wargames/)
+* [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 
+### SQL:
+* [Audi-1/sqli-labs · GitHub](https://github.com/Audi-1/sqli-labs)
+* [RedTigers Hackit](http://redtiger.labs.overthewire.org/)
 
+### ctf XSS:
+* [prompt(1) to win](http://prompt.ml/0)
+* [xss.pkav.net/xss/](http://xss.pkav.net/xss/)
+* [doscn.org/xss/](http://www.doscn.org/xss/)
+* [XSS Challenges](http://xss-quiz.int21h.jp/)
 
+### ctf综合练习:
+* [网络安全实验室](http://hackinglab.cn/)
+* [index of / ctf题目](http://captf.com/)
+* [Nazo-Level-1 ](http://cn.dragonparking.com/)(脑洞开发，与ctf只有那么一点关系，有85关了)
+* [光棍节程序员闯关秀第1关(总共10关)](https://1111.segmentfault.com/)
+* [黑客游戏--Hackers game](http://www.fj543.com/hack/)
+* [梦之光芒/Monyer——Monyer's Little Game](http://monyer.com/game/game1//) 
+* [黑客游戏 Let's Hack](https://attach.blackbap.org/)
+* [Jlu.CTF首页 Jlu.CTF](http://ctf.spirit.org.cn/)
+* [白帽学院](http://www.baimaoxueyuan.com/ctf)
+* [i春秋ctf挑战](http://www.ichunqiu.com/tiaozhans)
+* [IDF实验室 CTF训练营](http://ctf.idf.cn/)
+* [合天网安实验室-CTF挑战赛](http://www.hetianlab.com/CTFrace.html)
+* [ctf夺旗训练_CTF训练营](http://www.shiyanbar.com/ctf/index)
+* [黑吧安全网-红客闯关游戏](http://hkyx.myhack58.com/)
+* [blackhat](http://www.blackhat.com/)
+* [shiyanba](http://shiyanbar.com)（线上资源均免费，经常性的举办各种有奖活动）
+* [packetstormsecurity](http://packetstormsecurity.com )(有大量exploit程序)
+* [ussrback](http://www.ussrback.com/) (比较活跃的安全站)
+* [attrition](http://www.attrition.org/) 内容全面的安全站 　(更新至2013年)
+* [social-engineer](http://www.social-engineer.org/) 社会工程学研究所
+* [soldierx](https://www.soldierx.com)
+* [windowsecurity](http://www.windowsecurity.com/)(windowsnetworking.com)包含论坛、博客、新闻、工具
+* [blackmoreops](http://www.blackmoreops.com)
+* [securitytube](http://www.securitytube.net) 大量视频
 
-
-
+### 国内外安全大牛：
+- [Fyoderr的个人站点,即Nmap的老家](http://www.insecure.org ) 　
+- [安全专家Guninski的主页，有大量系统漏洞工具具及源代码](http://www.guninski.com/) 　　
+- [mimikatz](http://blog.gentilkiwi.com/) 
+- [Bruce,Schneier的博客（专业Blackhat会棍）](https://www.schneier.com/)
+- ["整蛊小黑必备" 博客-发现了WVS8版本远程溢出漏洞](http://an7isec.blogspot.co.il/)
+- [一个硬件牛的BLOG](https://fail0verflow.com/blog/index.html)
+- [破解过jeep车锁的大牛](https://blog.0x80.org/)
+- [对MSSQL渗透有研究的大牛](https://www.netspi.com/blog)
+- [http://hakin9.org](http://hakin9.org)
+- [渗透tips](http://websec.ca/blog)
+- [derkeiler](http://www.derkeiler.com/)
+- [xssed](http://www.xssed.com/)
+- [内网渗透、域渗透牛人](http://adsecurity.org/)
+- [securityxploded](http://securityxploded.com)
+- [国外路由器安全大牛](http://www.devttys0.com/blog/)
 
